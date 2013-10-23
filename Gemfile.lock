@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    caches_attr (0.1)
+    cached_attr (0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -26,7 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  caches_attr!
+  cached_attr!
   rake
   rspec
   simplecov (= 0.7.1)

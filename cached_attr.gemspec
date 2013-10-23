@@ -7,7 +7,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'cached_attr'
 
 Gem::Specification.new do |s|
-  s.name          = 'caches_attr'
+  s.name          = 'cached_attr'
   s.version       = '0.1'
   s.authors       = ['Jerphaes van Blijenburgh']
   s.email         = ['jerphaes@gmail.com']
